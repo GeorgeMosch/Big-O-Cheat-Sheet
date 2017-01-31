@@ -14,3 +14,9 @@ Big-O Cheat Sheet
 
 
 ![alt-tag](https://cloud.githubusercontent.com/assets/6853067/22485637/4d1b3b9c-e7fe-11e6-8ef4-dea4381d645e.png)
+
+
+
+
+
+![alt-tag](https://cloud.githubusercontent.com/assets/6853067/22485925/5e1a3e38-e7ff-11e6-84c2-43f067e2c322.png)
