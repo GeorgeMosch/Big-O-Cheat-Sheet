@@ -10,8 +10,9 @@ Big-O Cheat Sheet
 <br />
 
 
+<div style="text-align:center">
 ![alt-tag](https://cloud.githubusercontent.com/assets/6853067/22485637/4d1b3b9c-e7fe-11e6-8ef4-dea4381d645e.png)#centered
-
+</div>
 
 
 <br />
