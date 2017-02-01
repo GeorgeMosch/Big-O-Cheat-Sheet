@@ -36,6 +36,12 @@ Big-O Cheat Sheet
 <br />
 
 
+![alt-tag](https://cloud.githubusercontent.com/assets/6853067/22501640/9a8efc2a-e861-11e6-8c7c-d2f67a444dc5.png)
+
+<br />
+<br />
+
+
 ![alt-tag](https://cloud.githubusercontent.com/assets/6853067/22487092/f5a85c72-e803-11e6-9318-12540130ace4.png)
 
 
